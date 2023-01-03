@@ -19,7 +19,7 @@ const handleOnclick=(e) =>{
 e.preventDefault();
 setBoxArray([...boxArray,inputArray, ])
 
-setInputArray(color)
+setInputArray(color);
 }
  
 return (
